@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.sqrt {
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+	font-size: 24px;
+	margin-right: -4px;
+}
+
+.blue {
+	background-color: blue;
+}
+.yellow {
+	background-color: yellow;
+}
+.red {
+	background-color: red;
+}
+.brown {
+	background-color: brown;
+}
+.cat {
+	background-image: url("pidr.jpg"); 
+	background-size: cover;
+}
+.pink {
+	background-color: pink;
+}
+.bord {
+	border: 3px solid black;
+}
+.shadow {
+	box-shadow: -4px 1px 6px 0 black;
+}
+.link {
+	background-color: green;
+}
